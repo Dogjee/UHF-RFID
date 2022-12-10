@@ -1,0 +1,28 @@
+[{
+  "_id": {
+    "$oid": "6326a10603997cda0ede1484"
+  },
+  "mass": 2,
+  "tensach": "Toán",
+  "toadox": 20,
+  "toadoy": 76,
+  "trangthai": "Đang mượn"
+},{
+  "_id": {
+    "$oid": "633d6ae236a68b2df98a949d"
+  },
+  "mass": 3,
+  "tensach": "Lý",
+  "toadox": 20,
+  "toadoy": 82,
+  "trangthai": "Đang mượn"
+},{
+  "_id": {
+    "$oid": "633d6ae836a68b2df98a949e"
+  },
+  "mass": 4,
+  "tensach": "Hóa",
+  "toadox": 20,
+  "toadoy": 70,
+  "trangthai": "Đang mượn"
+}]

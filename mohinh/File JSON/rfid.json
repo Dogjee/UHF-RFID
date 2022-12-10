@@ -1,0 +1,302 @@
+[{
+  "_id": {
+    "$oid": "633d4c2435afaa258ff37ddd"
+  },
+  "ms": 1,
+  "xrfid": 18,
+  "yrfid": 58
+},{
+  "_id": {
+    "$oid": "633d4c6435afaa258ff37dde"
+  },
+  "ms": 2,
+  "xrfid": 18,
+  "yrfid": 59
+},{
+  "_id": {
+    "$oid": "633d4c6a35afaa258ff37ddf"
+  },
+  "ms": 3,
+  "xrfid": 18,
+  "yrfid": 60
+},{
+  "_id": {
+    "$oid": "633d4c7f35afaa258ff37de0"
+  },
+  "ms": 4,
+  "xrfid": 18,
+  "yrfid": 60
+},{
+  "_id": {
+    "$oid": "633d4c8f35afaa258ff37de1"
+  },
+  "ms": 5,
+  "xrfid": 18,
+  "yrfid": 61
+},{
+  "_id": {
+    "$oid": "633d4c9535afaa258ff37de2"
+  },
+  "ms": 6,
+  "xrfid": 18,
+  "yrfid": 62
+},{
+  "_id": {
+    "$oid": "633d4ca035afaa258ff37de3"
+  },
+  "ms": 7,
+  "xrfid": 18,
+  "yrfid": 63
+},{
+  "_id": {
+    "$oid": "633d4ca735afaa258ff37de4"
+  },
+  "ms": 8,
+  "xrfid": 18,
+  "yrfid": 64
+},{
+  "_id": {
+    "$oid": "633d4cb535afaa258ff37de5"
+  },
+  "ms": 9,
+  "xrfid": 18,
+  "yrfid": 65
+},{
+  "_id": {
+    "$oid": "633d4cbd35afaa258ff37de6"
+  },
+  "ms": 10,
+  "xrfid": 18,
+  "yrfid": 66
+},{
+  "_id": {
+    "$oid": "633d4cc635afaa258ff37de7"
+  },
+  "ms": 11,
+  "xrfid": 18,
+  "yrfid": 67
+},{
+  "_id": {
+    "$oid": "633d4ccd35afaa258ff37de8"
+  },
+  "ms": 12,
+  "xrfid": 18,
+  "yrfid": 68
+},{
+  "_id": {
+    "$oid": "633d4cd635afaa258ff37de9"
+  },
+  "ms": 13,
+  "xrfid": 18,
+  "yrfid": 69
+},{
+  "_id": {
+    "$oid": "633d4ce135afaa258ff37dea"
+  },
+  "ms": 14,
+  "xrfid": 18,
+  "yrfid": 70
+},{
+  "_id": {
+    "$oid": "633d4cec35afaa258ff37deb"
+  },
+  "ms": 15,
+  "xrfid": 18,
+  "yrfid": 71
+},{
+  "_id": {
+    "$oid": "633d4cf335afaa258ff37dec"
+  },
+  "ms": 16,
+  "xrfid": 18,
+  "yrfid": 72
+},{
+  "_id": {
+    "$oid": "633d4cfb35afaa258ff37ded"
+  },
+  "ms": 17,
+  "xrfid": 18,
+  "yrfid": 73
+},{
+  "_id": {
+    "$oid": "633d4d1435afaa258ff37dee"
+  },
+  "ms": 18,
+  "xrfid": 18,
+  "yrfid": 74
+},{
+  "_id": {
+    "$oid": "633d4d1c35afaa258ff37def"
+  },
+  "ms": 19,
+  "xrfid": 18,
+  "yrfid": 75
+},{
+  "_id": {
+    "$oid": "633d4d2835afaa258ff37df0"
+  },
+  "ms": 20,
+  "xrfid": 18,
+  "yrfid": 76
+},{
+  "_id": {
+    "$oid": "633d4d3135afaa258ff37df1"
+  },
+  "ms": 21,
+  "xrfid": 18,
+  "yrfid": 78
+},{
+  "_id": {
+    "$oid": "633d4d5c35afaa258ff37df2"
+  },
+  "ms": 22,
+  "xrfid": 18,
+  "yrfid": 79
+},{
+  "_id": {
+    "$oid": "633d4d6835afaa258ff37df3"
+  },
+  "ms": 23,
+  "xrfid": 18,
+  "yrfid": 80
+},{
+  "_id": {
+    "$oid": "633d4d7235afaa258ff37df4"
+  },
+  "ms": 24,
+  "xrfid": 18,
+  "yrfid": 81
+},{
+  "_id": {
+    "$oid": "633d4d7c35afaa258ff37df5"
+  },
+  "ms": 25,
+  "xrfid": 18,
+  "yrfid": 82
+},{
+  "_id": {
+    "$oid": "633d4d8635afaa258ff37df6"
+  },
+  "ms": 26,
+  "xrfid": 18,
+  "yrfid": 83
+},{
+  "_id": {
+    "$oid": "633d4d9435afaa258ff37df7"
+  },
+  "ms": 27,
+  "xrfid": 18,
+  "yrfid": 84
+},{
+  "_id": {
+    "$oid": "633d4def35afaa258ff37df9"
+  },
+  "ms": 28,
+  "xrfid": 21,
+  "yrfid": 84
+},{
+  "_id": {
+    "$oid": "633d4e0435afaa258ff37dfa"
+  },
+  "ms": 29,
+  "xrfid": 21,
+  "yrfid": 83
+},{
+  "_id": {
+    "$oid": "633d4e0c35afaa258ff37dfb"
+  },
+  "ms": 30,
+  "xrfid": 21,
+  "yrfid": 82
+},{
+  "_id": {
+    "$oid": "633d4e1435afaa258ff37dfc"
+  },
+  "ms": 31,
+  "xrfid": 21,
+  "yrfid": 81
+},{
+  "_id": {
+    "$oid": "633d4e3335afaa258ff37dfd"
+  },
+  "ms": 32,
+  "xrfid": 21,
+  "yrfid": 80
+},{
+  "_id": {
+    "$oid": "633d4e3f35afaa258ff37dfe"
+  },
+  "ms": 33,
+  "xrfid": 21,
+  "yrfid": 79
+},{
+  "_id": {
+    "$oid": "633d4e4e35afaa258ff37dff"
+  },
+  "ms": 34,
+  "xrfid": 21,
+  "yrfid": 78
+},{
+  "_id": {
+    "$oid": "633d4e5735afaa258ff37e00"
+  },
+  "ms": 35,
+  "xrfid": 21,
+  "yrfid": 77
+},{
+  "_id": {
+    "$oid": "633d4e5f35afaa258ff37e01"
+  },
+  "ms": 36,
+  "xrfid": 21,
+  "yrfid": 76
+},{
+  "_id": {
+    "$oid": "633d4e7535afaa258ff37e03"
+  },
+  "ms": 38,
+  "xrfid": 21,
+  "yrfid": 75
+},{
+  "_id": {
+    "$oid": "633d4e8535afaa258ff37e04"
+  },
+  "ms": 39,
+  "xrfid": 21,
+  "yrfid": 74
+},{
+  "_id": {
+    "$oid": "633d4e8e35afaa258ff37e05"
+  },
+  "ms": 40,
+  "xrfid": 21,
+  "yrfid": 73
+},{
+  "_id": {
+    "$oid": "633d4e9735afaa258ff37e06"
+  },
+  "ms": 41,
+  "xrfid": 21,
+  "yrfid": 72
+},{
+  "_id": {
+    "$oid": "633d4ed935afaa258ff37e07"
+  },
+  "ms": 41,
+  "xrfid": 21,
+  "yrfid": 72
+},{
+  "_id": {
+    "$oid": "633d4ee635afaa258ff37e08"
+  },
+  "ms": 42,
+  "xrfid": 21,
+  "yrfid": 71
+},{
+  "_id": {
+    "$oid": "633d4ef235afaa258ff37e09"
+  },
+  "ms": 43,
+  "xrfid": 21,
+  "yrfid": 70
+}]

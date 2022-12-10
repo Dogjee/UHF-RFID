@@ -1,0 +1,97 @@
+[{
+  "_id": {
+    "$oid": "633daaa9bc676f2976e381ca"
+  },
+  "ms": 14,
+  "xrfid": 18,
+  "yrfid": 70,
+  "idsach": 4
+},{
+  "_id": {
+    "$oid": "633daaa9bc676f2976e381cb"
+  },
+  "ms": 15,
+  "xrfid": 18,
+  "yrfid": 71,
+  "idsach": 4
+},{
+  "_id": {
+    "$oid": "633daaa9bc676f2976e381cc"
+  },
+  "ms": 19,
+  "xrfid": 18,
+  "yrfid": 75,
+  "idsach": 2
+},{
+  "_id": {
+    "$oid": "633daaa9bc676f2976e381cd"
+  },
+  "ms": 20,
+  "xrfid": 18,
+  "yrfid": 76,
+  "idsach": 2
+},{
+  "_id": {
+    "$oid": "633daaa9bc676f2976e381ce"
+  },
+  "ms": 23,
+  "xrfid": 18,
+  "yrfid": 80,
+  "idsach": 3
+},{
+  "_id": {
+    "$oid": "633daaa9bc676f2976e381cf"
+  },
+  "ms": 24,
+  "xrfid": 18,
+  "yrfid": 81,
+  "idsach": 3
+},{
+  "_id": {
+    "$oid": "633daaa9bc676f2976e381d0"
+  },
+  "ms": 25,
+  "xrfid": 18,
+  "yrfid": 82,
+  "idsach": 3
+},{
+  "_id": {
+    "$oid": "633daaa9bc676f2976e381d1"
+  },
+  "ms": 30,
+  "xrfid": 21,
+  "yrfid": 82,
+  "idsach": 3
+},{
+  "_id": {
+    "$oid": "633daaa9bc676f2976e381d2"
+  },
+  "ms": 31,
+  "xrfid": 21,
+  "yrfid": 81,
+  "idsach": 3
+},{
+  "_id": {
+    "$oid": "633daaa9bc676f2976e381d3"
+  },
+  "ms": 38,
+  "xrfid": 21,
+  "yrfid": 75,
+  "idsach": 2
+},{
+  "_id": {
+    "$oid": "633daaa9bc676f2976e381d4"
+  },
+  "ms": 42,
+  "xrfid": 21,
+  "yrfid": 71,
+  "idsach": 4
+},{
+  "_id": {
+    "$oid": "633daaa9bc676f2976e381d5"
+  },
+  "ms": 43,
+  "xrfid": 21,
+  "yrfid": 70,
+  "idsach": 4
+}]
