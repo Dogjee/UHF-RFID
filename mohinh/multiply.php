@@ -50,7 +50,7 @@ if(isset($_POST['timduongdingannhat'])){
 
 ?>
 <!DOCTYPE html>
-<html lang="en">
+<html>
 <head>
     <meta charset="UTF-8">
     <meta http-equiv="X-UA-Compatible" content="IE=edge">
@@ -426,38 +426,3 @@ if(isset($_POST['timduongdingannhat'])){
 ?>
 
 <!-- Giong noi -->
-<script>
-        var message = document.querySelector('#tensach');
-        var message2 = document.querySelector('#duongdingannhat');
-        var SpeechRecognition = SpeechRecognition || webkitSpeechRecognition;
-        var SpeechGrammarList = SpeechGrammarList || webkitSpeechGrammarList;
-
-        var grammar = '#JSGF V1.0;'
-
-        var recognition = new SpeechRecognition();
-        var speechRecognitionList = new SpeechGrammarList();
-        speechRecognitionList.addFromString(grammar, 1);
-        recognition.grammars = speechRecognitionList;
-        recognition.lang = 'vi-VN';
-        recognition.interimResults = false;
-
-        recognition.onresult = function(event) {
-            var lastResult = event.results.length - 1;
-            var content = event.results[lastResult][0].transcript;
-            message.value = content.slice(0,content.length-1);
-            message2.value = content.slice(0,content.length-1);
-        };
-
-        recognition.onspeechend = function() {
-            recognition.stop();
-        };
-
-        recognition.onerror = function(event) {
-            message.value = 'Có lỗi về nhận dạng giọng nói ' + event.error;
-            message2.value = 'Có lỗi về nhận dạng giọng nói ' + event.error;
-        }
-
-        document.querySelector('#btnTalk').addEventListener('click', function(){
-            recognition.start();
-        });
-</script>

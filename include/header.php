@@ -1,6 +1,6 @@
-<!DOCTYPE html>
+<!DOCTYPE html >
 <html>
-<head>
+<head >
   <meta charset="utf-8">
   <meta http-equiv="X-UA-Compatible" content="IE=edge">
   <title>AdminLTE 3 | Dashboard</title>
@@ -27,6 +27,7 @@
   <!-- Google Font: Source Sans Pro -->
   <link href="https://fonts.googleapis.com/css?family=Source+Sans+Pro:300,400,400i,700" rel="stylesheet">
 </head>
+
 <body class="hold-transition sidebar-mini layout-fixed">
 <div class="wrapper">
 
@@ -59,6 +60,12 @@
 
     <!-- Right navbar links -->
     <ul class="navbar-nav ml-auto">
+      <li>
+      <select onChange="changeFunc();" id="selectBox" class="selectpicker" data-width="fit">
+        <option value="vi-VN" data-content='<span class="flag-icon flag-icon-mx"></span> Vietnamese'>Tiếng Việt</option>
+        <option value="en-US" data-content='<span class="flag-icon flag-icon-us"></span> English'>English</option>
+      </select>
+      </li>
       <!-- Messages Dropdown Menu -->
       <li class="nav-item dropdown">
         <a class="nav-link" data-toggle="dropdown" href="#">
